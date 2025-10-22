@@ -1,0 +1,10 @@
+{
+    "email":"nader12e2@test.com",
+    "validEmail":"nader@test.com",
+    "inValidEmail":"nader@test.com",
+    "name":"naderName",
+    "password":"1qaz!QAZ",
+    "Url_afterLogin":"https://automationexercise.com/",
+    "login_url":"https://automationexercise.com/login",
+    "invalidLoginMessage":"Your email or password is incorrect!"
+}

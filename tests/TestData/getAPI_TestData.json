@@ -1,0 +1,4 @@
+{
+    "listAllProducts_Endpoint":" https://automationexercise.com/api/productsList",
+    "ProductName":"Blue Top"
+}

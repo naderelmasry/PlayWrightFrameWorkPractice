@@ -1,0 +1,9 @@
+{
+    "productName":"Blue Top",
+    "products_url":"https://automationexercise.com/products",
+    "viewProduct_url":"https://automationexercise.com/product_details/1",
+    "viewCart_url":"https://automationexercise.com/view_cart",
+    "checkout_url":"https://automationexercise.com/checkout",
+    "payment_url":"https://automationexercise.com/payment", 
+    "addToCart_successMessage":"Your product has been added to cart."
+}

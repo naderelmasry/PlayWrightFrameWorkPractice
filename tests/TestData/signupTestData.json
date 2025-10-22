@@ -1,0 +1,16 @@
+{
+    "validEmail_signup":"email@signup.com",
+    "invalidEmail_signup":"invalid@signup.com",
+    "password":"1qaz!QAZ",
+    "firstName":"Nader",
+    "lastName":"Elsayed",
+    "companyName":"Giza systems",
+    "adressDetails":"adress details",
+    "state":"test state",
+    "city":"Giza",
+    "zipCode":"002",
+    "mobileNumber":"012345678987",
+    "messageEmailExisted":"Email Address already exist!",
+    "createdAccount_url":"https://automationexercise.com/account_created"
+}
+
